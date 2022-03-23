@@ -1,0 +1,3 @@
+# Ignore directory or files from push to repository
+/node_modules
+/test
