@@ -1,4 +1,4 @@
-import DB from "./DB.js"; DB();
+import DB from "./db.js"; DB();
 
 import App from "./App.js";
 
